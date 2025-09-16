@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 ## 🛠️ Tools Used
 - **Wireshark** – For packet capture analysis.
-- **Sysmon Logs** – For process creation and DLL loading events.
+- **Process Monitor (Procmon)** – to trace process creation and DLL loading activity
 - **Event Viewer** – For service installation and printer spooler activity.
 
 ## 📊 Investigation Steps
